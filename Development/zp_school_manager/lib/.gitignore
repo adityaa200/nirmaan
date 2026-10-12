@@ -1,0 +1,24 @@
+
+# Java/JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# Java build files
+*.class
+target/
+build/
+out/
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js dependencies
+node_modules/
+
+# Secrets
+.env
+.env.*
+!.env.example

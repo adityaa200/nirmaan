@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57829402394",
+    "project_id": "csr-connect-96451",
+    "storage_bucket": "csr-connect-96451.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57829402394:android:019d5416e1299f5ad0eea3",
+        "android_client_info": {
+          "package_name": "com.example.zp_school_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelQyhQAI1MvyR14pSVJF9ThMutJXRMaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
